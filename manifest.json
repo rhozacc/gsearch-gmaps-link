@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Google Map Search Extension",
+  "version": "1.0",
+  "host_permissions": ["https://www.google.com/search?q=*"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.google.com/search?q=*"],
+      "js": ["contentScript.js"]
+    }
+  ]
+}
