@@ -1,8 +1,6 @@
 # gsearch-gmaps-link
 
-I got annoyed that clicking the map box on a Google Search result doesn't take you to Google Maps location anymore.
-
-Using this extension clicking on map box in Google Search results opens Google Maps like it used to:
+I got annoyed that clicking the map box on a Google Search result doesn't take you to a Google Maps location anymore. Using this extension clicking on map box in Google Search results opens Google Maps like it used to:
 
 ![](example.png)
 
