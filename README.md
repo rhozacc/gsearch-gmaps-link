@@ -1,8 +1,12 @@
 # gsearch-gmaps-link
 
-Clicking map box in Google Search results opens Google Maps like it used to.
+I got annoyed that clicking the map box on a Google Search result doesn't take you to Google Maps location anymore.
 
-To install:
+Using this extension clicking on map box in Google Search results opens Google Maps like it used to:
+
+![](example.png)
+
+# Installation
 
 1. Download [gsearch-gmaps-link](https://github.com/rhozacc/gsearch-gmaps-link/archive/refs/tags/v1.zip). Due to Chrome blocking you from downloading `.crx` files, you download `source code` zip, and unzip the repository.
 2. Go to `chrome://extensions`
