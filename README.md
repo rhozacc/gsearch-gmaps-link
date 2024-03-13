@@ -4,7 +4,7 @@ Clicking map box in Google Search results opens Google Maps like it used to.
 
 To install:
 
-1. Download `gsearch-gmaps-link.crx`. Due to Chrome blocking you from downloading `.crx` files, you can download whole repo as zip, and unzip the repository.
+1. Download [gsearch-gmaps-link](https://github.com/rhozacc/gsearch-gmaps-link/archive/refs/tags/v1.zip). Due to Chrome blocking you from downloading `.crx` files, you download `source code` zip, and unzip the repository.
 2. Go to `chrome://extensions`
 3. Enable \_Developer Mode \_Once you've enabled Developer Mode, you'll see additional options appear.
 4. Click on the **Load unpacked** button. A file dialog will open. Navigate to the location where you downloaded the `gsearch-gmaps-link.crx` file and select it. Once installed, you should see the extension appear in the list of installed extensions on the Extensions page.
