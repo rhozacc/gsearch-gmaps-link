@@ -1,5 +1,7 @@
 # gsearch-gmaps-link
 
+[https://www.buymeacoffee.com/rhozacc](https://www.buymeacoffee.com/rhozacc)
+
 I got annoyed that when clicking the map box on a Google Search result it doesn't take you to a Google Maps location anymore. Using this extension, when clicking on map box in a Google Search results it opens Google Maps like it used to:
 
 ![](example.png)
